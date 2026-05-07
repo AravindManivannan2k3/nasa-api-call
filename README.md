@@ -129,3 +129,7 @@ curl "http://localhost:5000/neo?start=2024-01-01&end=2024-01-05"
   ]
 }
 ```
+
+
+output:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60ae1391-8ffe-4df2-bd41-21e79b87d79d" />
